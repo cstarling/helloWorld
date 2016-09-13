@@ -31,7 +31,7 @@
                     <group>Development/Tools</group>
                     <mappings>
                         <mapping>
-                            <directory>/tmp</directory>
+                            <directory>/</directory>
                             <filemode>755</filemode>
                             <username>root</username>
                             <groupname>root</groupname>
