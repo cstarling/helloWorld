@@ -85,7 +85,7 @@
                     <group>Development/Tools</group>
                     <mappings>
                         <mapping>
-                            <directory>/</directory>
+                            <directory>/tmp</directory>
                             <filemode>755</filemode>
                             <username>root</username>
                             <groupname>root</groupname>
